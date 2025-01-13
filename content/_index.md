@@ -15,9 +15,6 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -35,11 +32,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My primary research interest is in statistical genetics. I'm working on methods for population genetics in humans and animals and have a keen interest in admixture, selection, and polygenic risk scores.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My other focus is on social network analysis. I build and assess novel statistical models for networks of wild animals. These can be used to discover and summarise the network, find communities, predict disease outbreaks, etc. I'm particularly interested in the robustness and computational challenges involved in fitting such models.
+
+        I have also been active in several other areas of applied computational statistics, including palaeoclimate reconstruction. See my publications for more information.
     design:
       columns: '1'
   - block: collection
