@@ -28,7 +28,7 @@ abstract = "The UK Biobank (UKB) is a large cohort study that recruited over 500
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true 
+featured = true 
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

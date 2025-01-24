@@ -66,9 +66,7 @@ education:
 
 ## About Me
 
-I am an Assistant Professor of Statistics in [University College Dublin](https://www.ucd.ie) in the [School of Mathematics and Statistics](https://www.ucd.ie/mathstat/). 
-
-The icons under my photo are links to some online accounts I use. 
+The icons under my photo are links to various accounts I use. 
 
 My research spans statistical genetics, network analysis, palaeoclimate reconstruction, and sentiment analysis. 
 See my publications below for more information or browse by topic by clicking projects in the navigation bar above. 

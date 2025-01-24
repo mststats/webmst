@@ -28,7 +28,7 @@ abstract_short = "Scoping review of bovine tuberculosis to examine zoonotic dise
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true 
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
