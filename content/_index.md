@@ -62,11 +62,11 @@ sections:
       view: citation
   - block: collection
     id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+    #content:
+    #  title: Recent & Upcoming Talks
+    #  filters:
+    #    folders:
+    #      - event
     design:
       view: article-grid
       columns: 1
